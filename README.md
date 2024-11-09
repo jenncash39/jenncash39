@@ -23,5 +23,5 @@ I'm looking forward to connecting with professionals in the analytics field
 and anyone who shares a passion for unlocking the potential of data. If you have insights to share,
 opportunities to explore, or simply want to connect, feel free to reach out. 
 
-[<img src='https://github.com/jenncash39/jenncash29/blob/main/LinkedIn%20Icon.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/jenncash29/)
-[<img src='https://github.com/jenncash39/jenncash29/blob/main/Tableau%20Icon.svg' alt='Tableau' height='40'>](https://public.tableau.com/app/profile/jenncash29/vizzes) 
+[<img src='https://github.com/jenncash39/jenncash39/blob/main/LinkedIn%20Icon.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/jenncash39/)
+[<img src='https://github.com/jenncash39/jenncash39/blob/main/Tableau%20Icon.svg' alt='Tableau' height='40'>](https://public.tableau.com/app/profile/jenncash39/vizzes) 
